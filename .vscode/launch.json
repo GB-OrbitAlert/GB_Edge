@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/gianluca/Desktop/repositories/GB_Edge",
+      "program": "/Users/gianluca/Desktop/repositories/GB_Edge/build/Debug/outDebug"
+    }
+  ]
+}
