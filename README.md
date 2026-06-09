@@ -207,8 +207,6 @@ https://wokwi.com/projects/466368816665166849
 
 ## Equipe
 
-**SEP Dev**
-
 | Nome | RM |
 |---|---|
 |Gianluca Antonicci | RM570081|
